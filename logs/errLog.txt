@@ -1,0 +1,15 @@
+22:06:2025	22:03:45	8ba6e79d-8197-42db-b5ef-cdf6b096f0c5	Error: ENOENT: no such file or directory, stat 'C:\DEMOVIT\view\404.html'
+22:06:2025	22:03:45	c18084d5-020d-4a09-8a7b-596470b8c05d	Error: ENOENT: no such file or directory, stat 'C:\DEMOVIT\view\404.html'
+22:06:2025	22:46:01	8e423d46-435d-4c88-ae66-b3ec8116d055	Error: ENOENT: no such file or directory, stat 'C:\DEMOVIT\routes\views\index.html'
+23:06:2025	00:22:51	cec357af-550e-472c-b18f-e4ed8c139212	SyntaxError: Expected ',' or '}' after property value in JSON at position 19 (line 3 column 5)
+23:06:2025	00:29:56	8d9b10e4-8e11-48cd-8df8-75c604fa97ab	SyntaxError: Expected double-quoted property name in JSON at position 16 (line 3 column 1)
+23:06:2025	01:15:14	d67e95cf-256b-4882-b96e-10d052854765	SyntaxError: Expected ',' or '}' after property value in JSON at position 33 (line 3 column 5)
+23:06:2025	15:22:02	4a711673-1a41-44db-b922-fe7eadf823c3	TypeError: Cannot destructure property 'username' of 'req.body' as it is undefined.
+23:06:2025	16:31:25	2c36daec-f021-4a7b-a37c-cca0cf12509e	TypeError: Cannot read properties of undefined (reading 'split')
+23:06:2025	16:32:32	0d1e2ff6-c4e9-4f10-979f-8ce7f74d5b0a	TypeError: Cannot read properties of undefined (reading 'split')
+23:06:2025	16:32:59	bec642c0-51ba-4b9e-bb0f-e6f90fa97665	TypeError: Cannot read properties of undefined (reading 'split')
+23:06:2025	21:52:18	c450e6d8-a913-4ddd-8e40-1a42ce1fed41	SyntaxError: Expected ',' or '}' after property value in JSON at position 19 (line 3 column 5)
+23:06:2025	23:24:08	9a74f42a-c00f-4292-a13e-63ff749613fb	ReferenceError: whiteList is not defined
+24:06:2025	00:08:30	51bfea83-c349-4802-8a1d-e1e04a740f4a	Error: Cannot set headers after they are sent to the client
+24:06:2025	00:09:10	b4539f8b-59aa-4fb6-8f7f-a47f3c6cad3e	SyntaxError: Expected double-quoted property name in JSON at position 42 (line 4 column 1)
+24:06:2025	00:15:33	0cde6f74-906c-48ee-a1ec-df672f6f5895	SyntaxError: Expected double-quoted property name in JSON at position 39 (line 4 column 1)
